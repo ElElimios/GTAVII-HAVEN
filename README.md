@@ -4,11 +4,17 @@ THIS GAME IS MADE IN GAMEMAKER.
 
 
 --- How it was made:
-Watched some tutorials from gamemaker itself and some help from the main organizer of my city.
+- Watched some tutorials from gamemaker itself and some help from the main organizer of my city.
 
-STORY: USAGI IS HIDING GTA VII FROM THE WORLD ( YES GTA 7 ) AND YOU NEED TO GET BEFORE HE SEES YOU, BE CAREFUL.
+--- Controls:
+- W for jump ( mantain for higher jump )
+- A & D for moving.
+
+--- Story: 
+- USAGI IS HIDING GTA VII FROM THE WORLD ( YES GTA 7 ) AND YOU NEED TO GET BEFORE HE SEES YOU, BE CAREFUL.
 
 ALL SPRITES WERWE MADE BY ME.
 
 
-GAME: https://elelimios.itch.io/haven-gtavii
+---GAME:
+https://elelimios.itch.io/haven-gtavii
